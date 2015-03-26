@@ -1,0 +1,3 @@
+FILES=\
+main\
+Watcher.class\
